@@ -30,18 +30,17 @@ m2 = [
 ]
 
 Output:
-
 True
 
 Both matrices have 3 rows and 3 columns , and neither contain None .
 
 3. Approach
 
-1. Check whether both matrices have equal number of row 
-2. Find the first elements number of column/element
-3. Iterate over every row and check its column count
-4. Check whether any row contains None 
-5. If all conditions are satisfied return True
+* Check whether both matrices have equal number of row
+* Find the first elements number of column/element
+* Iterate over every row and check its column count
+* check whether any row contains None
+* If all conditions are satisfied return True
 
 4. Code Explanation
 
