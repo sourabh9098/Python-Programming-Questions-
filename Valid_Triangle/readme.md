@@ -21,3 +21,10 @@ c = 7
 Scalene Triangle
 
 
+## 3. Approach
+
+First , check whether all three sides are positive
+
+Next  apply the Triangle Inequality Theorem . The sum of any two sides must be greater than the third side 
+
+If the triangle is valid , compare the three sides to identify its type
